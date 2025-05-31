@@ -13,6 +13,6 @@
 ### Основные инструменты:  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,sqlite,sklearn,opencv,github,bots,arduino,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,sqlite,sklearn,opencv,github,bots,arduino,pycharm,vscode,ubuntu" />
   </a>
 </p>
